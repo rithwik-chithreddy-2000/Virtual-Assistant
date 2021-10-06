@@ -6,7 +6,6 @@ GGLURL_LATESTNEWS = 'https://www.google.co.in/search?q=latest+news'
 GGLURL_TODAYNEWS = 'https://www.google.co.in/search?q=today%27s+news'
 # operations.py
 WEATHER_API_URL = 'http://api.openweathermap.org/data/2.5/weather?'
-WEATHER_API_KEY = '72af73806cb91917dd320753835ac8b7'
 JOKE_URL = 'https://official-joke-api.appspot.com/random_joke'
 # /json
 JSON_PATH = __file__.rsplit('\\', 1)[0] + '\\jsons\\'
